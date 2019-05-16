@@ -7,8 +7,6 @@
 //
 
 import UIKit
-
-cimport UIKit
 import AlamofireImage
 
 class MovieGridViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
