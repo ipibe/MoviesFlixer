@@ -12,4 +12,9 @@
 
 ## App Walkthrough 
 
-<img src='[http://g.recordit.co/Afw6RUgZ1y.gif]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src ="http://g.recordit.co/Afw6RUgZ1y.gif" width=250><br>
+
+
+## MovieDataBase
+https://developers.themoviedb.org/3/getting-started/introduction
+Here is the developer API for theMovieDB used in order to get the App information.
