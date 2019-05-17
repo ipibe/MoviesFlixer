@@ -12,4 +12,4 @@
 
 ## App Walkthrough 
 //insert giff here
-<img src='[Insert gif here]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://g.recordit.co/Afw6RUgZ1y.gif]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
